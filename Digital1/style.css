@@ -1,0 +1,11 @@
+#clock {
+    font-size: 175px;
+    background-color:rgb(27, 182, 94);
+    width: 900px;
+    margin: 200px;
+    justify-content: center;
+    border: 11px solid  rgba(71, 74, 77, 0.699);
+    border-radius: 50px;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgb(224, 173, 30) 0%, rgba(69, 192, 223, 0.377) 100%);
+}
